@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="xdagtool", # Replace with your own username
-    version="0.3",
+    version="0.4",
     author="Larry Wu",
     author_email="rulerson@qq.com",
     description="Xdag slicing tool",
