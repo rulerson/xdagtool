@@ -13,4 +13,4 @@ pip install xdagtool
 
 ## usage
 
-xdag-slice --help   
+xdag-slice --help   2
